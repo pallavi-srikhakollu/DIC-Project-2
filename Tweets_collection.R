@@ -12,6 +12,8 @@ access_token = Sys.getenv("TWITTER_ACCESS_TOKEN")
 access_secret_token = Sys.getenv("TWITTER_ACCESS_SECRET")
 
 setup_twitter_oauth(consumer_key,consumer_secret_key,access_token,access_secret_token)
+'setup_twitter_oauth("ObYMjI0Rm2wBrvWvg0nxI3hnh","qZfFBnx792kKeE2xpptl5Hqa2c50HKloZUR99KAjXhZIDqHxeA"
+                    ,"2923806378-mDG9ie7mEPnxgSGhQDGiPbzwOqFrOKrfPlzt5Yf","4jMXTFNoLlbbpesdpJNVoTiPMD40IEyrtHzazmpfC8ErP")'
 
 #######################################################################################
 tweets <- searchTwitter("#NFL",  lang = "en", n = 15000)
@@ -23,12 +25,20 @@ if (file.exists("/Users/Pallavi/Documents/DIC-Project-2/NFLTweets.csv")) {
   write.table(tweets.df, file = "/Users/Pallavi/Documents/DIC-Project-2/NFLTweets.csv", col.names = TRUE, row.names = FALSE, sep = ",")
 }
 
+'if (file.exists("/Users/manasikulkarni/Documents/DIC-Project-2/NFLTweets.csv")) {
+  write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/NFLTweets.csv", append = TRUE, col.names = FALSE, row.names = FALSE, sep = ",")
+} else {
+  write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/NFLTweets.csv", col.names = TRUE, row.names = FALSE, sep = ",")
+}'
+
 
 
 ############################
 tweets_r.df <- read.csv("/Users/Pallavi/Documents/DIC-Project-2/NFLTweets.csv",row.names = NULL)
+#tweets_r.df <- read.csv("/Users/manasikulkarni/Documents/DIC-Project-2/NFLTweets.csv",row.names = NULL)
 tweets_1 <- tweets_r.df %>% distinct(id,.keep_all = TRUE)
 
 tweets_location_unique <- tweets_1 %>%  filter((isRetweet == FALSE),1,all())
 
 write.csv(tweets_location_unique,file = "/Users/Pallavi/Documents/DIC-Project-2/NFLFilteredTweets.csv", row.names = FALSE)
+#write.csv(tweets_location_unique,file = "/Users/manasikulkarni/Documents/DIC-Project-2/NFLFilteredTweets.csv", row.names = FALSE)
