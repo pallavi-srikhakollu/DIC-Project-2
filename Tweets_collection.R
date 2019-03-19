@@ -31,8 +31,4 @@ tweets_1 <- tweets_r.df %>% distinct(id,.keep_all = TRUE)
 
 tweets_location_unique <- tweets_1 %>%  filter((isRetweet == FALSE),1,all())
 
-if (file.exists("/Users/Pallavi/Documents/DIC_project_2/FilteredTweets.csv")) {
-  write.table(tweets_location_unique, file = "/Users/Pallavi/Documents/DIC-Project-2/NFLFilteredTweets.csv", append = TRUE, col.names = FALSE, row.names = FALSE, sep = ",")
-} else {
-  write.table(tweets_location_unique, file = "/Users/Pallavi/Documents/DIC-Project-2/NFLFilteredTweets.csv", col.names = TRUE, row.names = FALSE, sep = ",")
-}
+write.csv(tweets_location_unique,file = "/Users/Pallavi/Documents/DIC-Project-2/NFLFilteredTweets.csv", row.names = FALSE)
