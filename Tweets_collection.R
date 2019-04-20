@@ -17,7 +17,7 @@ setup_twitter_oauth("ObYMjI0Rm2wBrvWvg0nxI3hnh","qZfFBnx792kKeE2xpptl5Hqa2c50HKl
 
 #######################################################################################
 #tweets <- searchTwitter("#sports",  lang = "en", n = 5000)
-tweets <- searchTwitter("#swimming",  lang = "en", n = 5000)
+tweets <- searchTwitter("#tennis",  lang = "en", n = 5000)
 tweets.df <-twListToDF(tweets)
 #write.table(tweets.df, "Documents/DIC/tweets.csv", sep = ",", col.names = T, append = T)
 'if (file.exists("/Users/Pallavi/Documents/DIC-Project-2/NFLTweets.csv")) {
@@ -44,19 +44,25 @@ tweets.df <-twListToDF(tweets)
   write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/BaseballTweets.csv", col.names = TRUE, row.names = FALSE, sep = ",")
 }'
 
-if (file.exists("/Users/manasikulkarni/Documents/DIC-Project-2/SwimmingTweets.csv")) {
+'if (file.exists("/Users/manasikulkarni/Documents/DIC-Project-2/SwimmingTweets.csv")) {
   write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/SwimmingTweets.csv", append = TRUE, col.names = FALSE, row.names = FALSE, sep = ",")
 } else {
   write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/SwimmingTweets.csv", col.names = TRUE, row.names = FALSE, sep = ",")
+}'
+
+if (file.exists("/Users/manasikulkarni/Documents/DIC-Project-2/TennisTweets.csv")) {
+  write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/TennisTweets.csv", append = TRUE, col.names = FALSE, row.names = FALSE, sep = ",")
+} else {
+  write.table(tweets.df, file = "/Users/manasikulkarni/Documents/DIC-Project-2/TennisTweets.csv", col.names = TRUE, row.names = FALSE, sep = ",")
 }
 
 
 ############################
 #tweets_r.df <- read.csv("/Users/Pallavi/Documents/DIC-Project-2/NFLTweets.csv",row.names = NULL)
-tweets_r.df <- read.csv("/Users/manasikulkarni/Documents/DIC-Project-2/SwimmingTweets.csv",row.names = NULL)
+tweets_r.df <- read.csv("/Users/manasikulkarni/Documents/DIC-Project-2/TennisTweets.csv",row.names = NULL)
 tweets_1 <- tweets_r.df %>% distinct(id,.keep_all = TRUE)
 
 tweets_location_unique <- tweets_1 %>%  filter((isRetweet == FALSE),1,all())
 
 #write.csv(tweets_location_unique,file = "/Users/Pallavi/Documents/DIC-Project-2/NFLFilteredTweets.csv", row.names = FALSE)
-write.csv(tweets_location_unique,file = "/Users/manasikulkarni/Documents/DIC-Project-2/SwimmingFilteredTweets.csv", row.names = FALSE)
+write.csv(tweets_location_unique,file = "/Users/manasikulkarni/Documents/DIC-Project-2/TennisFilteredTweets.csv", row.names = FALSE)
