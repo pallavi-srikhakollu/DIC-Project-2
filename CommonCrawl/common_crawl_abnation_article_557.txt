@@ -1,0 +1,3 @@
+select a letter to explore full fighter list
+ <BRK> 
+ <BRK> 
