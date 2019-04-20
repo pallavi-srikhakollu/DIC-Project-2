@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 conceived in    sporting news offers a trusted perspective on multiple sports through cutting edge digital story telling on all major platforms  <BRK> 
  m 
 monthly video streams
@@ -14,3 +15,6 @@ feltham  tw   he  uk <BRK> tel
 info performgroup com
 twitter   perform <BRK> 
 							   company number      copyright           perform group all rights reserved  all images copyright getty images 						 <BRK> 
+=======
+mock draft<BRK>the   nfl draft will be held at the cowboys  at t stadium in arlington  texas  this will be the first draft held in an nfl stadium <BRK>the   nfl draft starts thursday  april    and ends saturday  april    the first round will be featured thursday night    p m  et   with the second and third rounds taking place friday night    p m    the final five rounds will be on saturday  noon  <BRK>
+>>>>>>> e93308bc0971f71ce93daa84e7c3437799d04add
