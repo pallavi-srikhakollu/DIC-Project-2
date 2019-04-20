@@ -1,0 +1,6183 @@
+
+ufc
+bellator
+pfl
+invicta fc
+one fc
+fight result
+<BRK> espn   prelim     am est  espn  main card     pm est
+
+
+main card
+
+
+alistair overeem v  alexey oliynyk
+
+
+islam makhachev v  arman tsarukyan
+
+
+sergey pavlovich v  marcelo golm
+
+
+ivan shtyrkov v  devin clark
+
+
+roxanne modafferi  v  antonina shevchenko
+
+
+krzysztof jotko v  alen amedovki
+
+
+
+
+undercard
+
+
+movar evloev v  seung woo choi
+
+
+sultan aliev v  keita nakamura
+
+
+alexander yakovlev v  alex da silva coelho
+
+
+marcin tybura v  shamil abdurakhimov
+
+
+gadzhimurad antigulov v  michal oleksiejczuk
+
+
+magomed mustafaev v  rafael fiziev
+
+
+gadzhimurad antigulov v  michal oleksiejczuk
+
+
+
+
+
+ufc on espn  jacare v  hermansson
+april     
+ 
+
+
+main card
+
+
+ronaldo souza v  jack hermansson
+
+
+greg hardy v  dmitrii smoliakov
+
+
+mike perry v  alex oliveira
+
+
+john lineker v  cory sandhagen
+
+
+roosevelt robert v  thomas gifford
+
+
+
+
+undercard
+
+
+ben saunders v  takashi sato
+
+
+andrei arlovki v  augusto sakai
+
+
+jim miller v  jason gonzalez
+
+
+virna jandiroba v  carla esparza
+
+
+glover teixeira v  ion cutelaba
+
+
+court mcgee v  dhiego lima 
+
+
+jessica penne v  jodie esquibel
+
+
+
+
+
+bellator    macdonald v  fitch
+april     
+ 
+
+
+rory macdonald v  jon fitch
+title fight
+
+
+ilima macfarlane v  veta arteaga
+title fight
+
+
+ben henderson v  adam piccolotti
+
+
+phil davis v  liam mcgeary
+
+
+
+invicta fc  phoenix rising
+may     
+ 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+alistair overeem v  alexey oliynyk
+
+
+islam makhachev v  arman tsarukyan
+
+
+sergey pavlovich v  marcelo golm
+
+
+ivan shtyrkov v  devin clark
+
+
+roxanne modafferi  v  antonina shevchenko
+
+
+krzysztof jotko v  alen amedovki
+
+
+
+
+undercard
+
+
+movar evloev v  seung woo choi
+
+
+sultan aliev v  keita nakamura
+
+
+alexander yakovlev v  alex da silva coelho
+
+
+marcin tybura v  shamil abdurakhimov
+
+
+gadzhimurad antigulov v  michal oleksiejczuk
+
+
+magomed mustafaev v  rafael fiziev
+
+
+gadzhimurad antigulov v  michal oleksiejczuk
+
+
+
+
+
+ufc on espn  jacare v  hermansson
+april     
+ 
+
+
+main card
+
+
+ronaldo souza v  jack hermansson
+
+
+greg hardy v  dmitrii smoliakov
+
+
+mike perry v  alex oliveira
+
+
+john lineker v  cory sandhagen
+
+
+roosevelt robert v  thomas gifford
+
+
+
+
+undercard
+
+
+ben saunders v  takashi sato
+
+
+andrei arlovki v  augusto sakai
+
+
+jim miller v  jason gonzalez
+
+
+virna jandiroba v  carla esparza
+
+
+glover teixeira v  ion cutelaba
+
+
+court mcgee v  dhiego lima 
+
+
+jessica penne v  jodie esquibel
+
+
+
+
+
+bellator    macdonald v  fitch
+april     
+ 
+
+
+rory macdonald v  jon fitch
+title fight
+
+
+ilima macfarlane v  veta arteaga
+title fight
+
+
+ben henderson v  adam piccolotti
+
+
+phil davis v  liam mcgeary
+
+
+
+invicta fc  phoenix rising
+may     
+ 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+ronaldo souza v  jack hermansson
+
+
+greg hardy v  dmitrii smoliakov
+
+
+mike perry v  alex oliveira
+
+
+john lineker v  cory sandhagen
+
+
+roosevelt robert v  thomas gifford
+
+
+
+
+undercard
+
+
+ben saunders v  takashi sato
+
+
+andrei arlovki v  augusto sakai
+
+
+jim miller v  jason gonzalez
+
+
+virna jandiroba v  carla esparza
+
+
+glover teixeira v  ion cutelaba
+
+
+court mcgee v  dhiego lima 
+
+
+jessica penne v  jodie esquibel
+
+
+
+
+
+bellator    macdonald v  fitch
+april     
+ 
+
+
+rory macdonald v  jon fitch
+title fight
+
+
+ilima macfarlane v  veta arteaga
+title fight
+
+
+ben henderson v  adam piccolotti
+
+
+phil davis v  liam mcgeary
+
+
+
+invicta fc  phoenix rising
+may     
+ 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+ronaldo souza v  jack hermansson
+
+
+greg hardy v  dmitrii smoliakov
+
+
+mike perry v  alex oliveira
+
+
+john lineker v  cory sandhagen
+
+
+roosevelt robert v  thomas gifford
+
+
+
+
+undercard
+
+
+ben saunders v  takashi sato
+
+
+andrei arlovki v  augusto sakai
+
+
+jim miller v  jason gonzalez
+
+
+virna jandiroba v  carla esparza
+
+
+glover teixeira v  ion cutelaba
+
+
+court mcgee v  dhiego lima 
+
+
+jessica penne v  jodie esquibel
+
+
+
+
+
+bellator    macdonald v  fitch
+april     
+ 
+
+
+rory macdonald v  jon fitch
+title fight
+
+
+ilima macfarlane v  veta arteaga
+title fight
+
+
+ben henderson v  adam piccolotti
+
+
+phil davis v  liam mcgeary
+
+
+
+invicta fc  phoenix rising
+may     
+ 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+rory macdonald v  jon fitch
+title fight
+
+
+ilima macfarlane v  veta arteaga
+title fight
+
+
+ben henderson v  adam piccolotti
+
+
+phil davis v  liam mcgeary
+
+
+
+invicta fc  phoenix rising
+may     
+ 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+rory macdonald v  jon fitch
+title fight
+
+
+ilima macfarlane v  veta arteaga
+title fight
+
+
+ben henderson v  adam piccolotti
+
+
+phil davis v  liam mcgeary
+
+
+
+invicta fc  phoenix rising
+may     
+ 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+bellator  birmingham
+may     
+ 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+ryan scope v  derek campos
+
+
+
+
+undercard
+
+
+kane mousah v  mateusz piskorz
+
+
+fabian edward v  falco neto lope
+
+
+brian moore v  binh son le
+
+
+ryan scope v  derek campos
+
+
+
+
+
+ufc fight night  cerrone v  iaquinta
+may     
+ 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+donald cerrone v  al iaquinta
+
+
+
+
+undercard
+
+
+arjan bhullar v  juan adam
+
+
+sarah moras v  leah letson 
+
+
+aiemann zahabi v  vince morale
+
+
+cub swanson v  shane burgos
+
+
+brad katona v  merab dvalishvili
+
+
+nordine taleb v  siyar bahadurzada
+
+
+sergey spivak v  walt harris
+
+
+andrew sanchez v  marc andre barriault
+
+
+brian kelleher v  mitch gagnon
+
+
+elia theodorou v  derek brunson
+
+
+
+
+
+
+bellator    chandler v  pitbull
+may     
+ 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+<BRK> 
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+michael chandler v  patricio freire
+title fight
+
+
+douglas lima v  michael page
+
+
+
+
+undercard
+
+
+jake hager v  t j  jones
+
+
+
+
+
+ufc  
+may     
+ 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+rose namajunas v  jessica andrade
+title fight
+
+
+anderson silva v  jared cannonier
+
+
+
+
+undercard
+
+
+thiago alves v  laureano staropoli	
+
+
+said nurmagomedov v  raoni barcelos
+
+
+luana carolina v  yanan wu
+
+
+talita bernardo v  jessica rose clark
+
+
+bethe correia v  irene aldana
+
+
+antonio rogerio nogueira v  ryan spann
+
+
+b j  penn v  clay guida
+
+
+
+
+
+ufc fight night  do anjos v  lee
+may     
+ 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+rafael do anjos v  kevin lee
+
+
+neil magny v  vicente luque
+
+
+
+
+undercard
+
+
+megan anderson v  felicia spencer
+
+
+aspen ladd v  sijara eubanks
+
+
+antonio carlos junior v  ian heinisch
+
+
+davi ramos v  austin hubbard
+
+
+
+
+
+ufc fight night  stockholm
+june     
+ 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+alexander gustafsson v  anthony smith
+
+
+
+
+undercard
+
+
+leonardo santos v  stevie ray
+
+
+tonya evinger v  lina lansberg
+
+
+volkan oezdemir v  ilir latifi
+
+
+nick hein v  luigi vendramini
+
+
+makwan amirkhani v  chris fishgold
+
+
+bea malecki v  duda santana
+
+
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+ufc  
+june     
+ 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+henry cejudo v  marlon moraes
+title fight
+
+
+
+
+undercard
+
+
+tai tuivasa v  blagoy ivanov
+
+
+karolina kowalkiewicz v  alexa grasso
+
+
+felice herrig v  yan xiaonan
+
+
+
+
+
+bellator    mousasi v  lovato
+june     
+ 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+paul daley v  erick silva
+
+
+james gallagher v  jeremiah labiano
+
+
+
+ufc fight night on espn   
+june     
+ 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+ufc on espn  
+june     
+ 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+jussier formiga v  joseph benavidez
+
+
+
+ufc  
+july     
+ 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK> 
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK>
+
+
+main card
+
+
+jon jones v  thiago santos
+title fight
+
+
+amanda nunes v  holly holm
+title fight
+
+
+
+
+undercard
+
+
+diego sanchez v  michael chiesa
+
+
+luke rockhold v  jan blachowicz
+
+
+
+
+
+<BRK><BRK>
